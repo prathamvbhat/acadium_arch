@@ -1,3 +1,4 @@
 # acadium_arch
 System Architecture of Acidium
-![acadium_arch drawio](https://github.com/user-attachments/assets/350c45ba-2921-4700-b6db-00287d275b01)
+![acadium_arch_white drawio](https://github.com/user-attachments/assets/0e9d4dc1-c0fa-49a2-a852-4fbb8a2af2b5)
+
